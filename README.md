@@ -3,9 +3,7 @@ Code In Place Python Clone Game Project
 
 # Typer Shark Clone
 
-Welcome to the Typer Shark Clone — a typing clone game designed to sharpen your typing skills while having fun!
-
----
+Welcome to the Typer Shark Clone, a typing clone game designed to sharpen your typing skills while having fun!
 
 ## Overview
 
@@ -13,11 +11,10 @@ Typer Shark Clone is a simple typing game designed from the features of the orig
 
 This project is intended for the developer to polish python programming skills during the development
 
----
 
 ## Features
 
-- **Engaging Gameplay:** Multiple categories of enemies categorized by word length and difficulty, each with distinct visuals.
+- **Engaging Gameplay**: Multiple categories of enemies categorized by word length and difficulty, each with distinct visuals.
 - **Dynamic Spawning:** Sharks spawn at timed intervals with a maximum on-screen limit to balance challenge.
 - **Responsive Input:** Real-time keyboard input tracking to match words and provide immediate feedback.
 - **Score & Lives System:** Track your progress with a clean display of score and remaining lives.
